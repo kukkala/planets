@@ -1,3 +1,5 @@
+something else
+
 Mars is not cold and dry.
 Two moons
 The mummy will appreciate the lack of humidity. 
@@ -7,5 +9,9 @@ Using GItHub is fun.
 There are no coffee shops.
 
 # Bring water to mars, mummy said. By JJWang.
+<<<<<<< HEAD
 
 >>>>>>> f1260a909d2a7417de59b921d9ef91071f62c3fd
+=======
+# last line was just added by JJWang. Can we generate water on mars?
+>>>>>>> 3fcce6bda116bb2dadd78ee48c32e37454d39d5a
